@@ -1,0 +1,5 @@
+../Core/Src/lsm6dsl_interface.c:14:9:lsm6dsl_platform_write	40	static
+../Core/Src/lsm6dsl_interface.c:23:9:lsm6dsl_platform_read	40	static
+../Core/Src/lsm6dsl_interface.c:32:6:LSM6DSL_init	16	static
+../Core/Src/lsm6dsl_interface.c:85:6:LSM6DSL_dataReadAcc	24	static
+../Core/Src/lsm6dsl_interface.c:102:6:LSM6DSL_dataReadGyro	24	static

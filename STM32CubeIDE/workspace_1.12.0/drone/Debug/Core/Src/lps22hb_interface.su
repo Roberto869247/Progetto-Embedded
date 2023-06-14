@@ -1,0 +1,4 @@
+../Core/Src/lps22hb_interface.c:11:9:lps22hb_platform_write	40	static
+../Core/Src/lps22hb_interface.c:21:9:lps22hb_platform_read	40	static
+../Core/Src/lps22hb_interface.c:31:6:LPS22HB_init	16	static
+../Core/Src/lps22hb_interface.c:62:6:LPS22HB_dataRead	16	static

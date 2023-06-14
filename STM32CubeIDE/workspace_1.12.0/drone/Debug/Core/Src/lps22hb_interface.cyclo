@@ -1,0 +1,4 @@
+lps22hb_interface.c:11:9:lps22hb_platform_write	2
+lps22hb_interface.c:21:9:lps22hb_platform_read	2
+lps22hb_interface.c:31:6:LPS22HB_init	3
+lps22hb_interface.c:62:6:LPS22HB_dataRead	3

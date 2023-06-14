@@ -1,0 +1,5 @@
+lsm6dsl_interface.c:14:9:lsm6dsl_platform_write	2
+lsm6dsl_interface.c:23:9:lsm6dsl_platform_read	2
+lsm6dsl_interface.c:32:6:LSM6DSL_init	3
+lsm6dsl_interface.c:85:6:LSM6DSL_dataReadAcc	3
+lsm6dsl_interface.c:102:6:LSM6DSL_dataReadGyro	3

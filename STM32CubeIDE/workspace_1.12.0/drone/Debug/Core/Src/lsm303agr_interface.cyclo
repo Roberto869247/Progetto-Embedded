@@ -1,0 +1,5 @@
+lsm303agr_interface.c:14:9:lsm303agr_platform_write	2
+lsm303agr_interface.c:26:9:lsm303agr_platform_read	2
+lsm303agr_interface.c:38:6:LSM303AGR_init	4
+lsm303agr_interface.c:102:6:LSM303AGR_dataReadAcc	3
+lsm303agr_interface.c:122:6:LSM303AGR_dataReadMag	3

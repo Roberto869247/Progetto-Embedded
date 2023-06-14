@@ -1,0 +1,11 @@
+core_cm7.h:2606:26:ITM_SendChar	4
+freertos.c:49:5:_write	2
+freertos.c:178:6:MX_FREERTOS_Init	1
+freertos.c:263:6:startTaskControlMotor	1
+freertos.c:284:6:startTaskAttitude	1
+freertos.c:306:6:startTaskAltitude	1
+freertos.c:326:6:getPressure	2
+freertos.c:350:6:getMagnetometer	2
+freertos.c:375:6:getAccMean	3
+freertos.c:410:6:getGyroscope	2
+freertos.c:435:6:displayData	7

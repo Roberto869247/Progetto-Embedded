@@ -1,0 +1,5 @@
+../Core/Src/lsm303agr_interface.c:14:9:lsm303agr_platform_write	48	static
+../Core/Src/lsm303agr_interface.c:26:9:lsm303agr_platform_read	48	static
+../Core/Src/lsm303agr_interface.c:38:6:LSM303AGR_init	16	static
+../Core/Src/lsm303agr_interface.c:102:6:LSM303AGR_dataReadAcc	24	static
+../Core/Src/lsm303agr_interface.c:122:6:LSM303AGR_dataReadMag	24	static
